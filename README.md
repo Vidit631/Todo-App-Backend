@@ -4,6 +4,7 @@
 This is the backend portion of the Todo App
 
 ## Setup
+To avoid any issues, clone this repository into a 'backend' directory and place 'backend' directory inside the same root directory which contains 'frontend' directory
 
 ### Prerequisites
 - Node.js
